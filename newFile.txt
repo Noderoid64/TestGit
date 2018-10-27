@@ -4,3 +4,4 @@ Build windows
 Build barn
 Build roof
 Broke the wall
+insert the door
