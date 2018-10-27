@@ -1,3 +1,4 @@
 Build foundation
 Build walls
 Build windows
+Build barn
