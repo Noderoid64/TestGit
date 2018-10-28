@@ -1,8 +1,0 @@
-Build foundation
-Build walls
-Build windows
-Build barn
-Build roof
-Broke the wall
-insert the door
-Add some stuff
