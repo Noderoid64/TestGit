@@ -5,3 +5,4 @@ Build barn
 Build roof
 Broke the wall
 insert the door
+Add some stuff
